@@ -2,6 +2,8 @@
 
 一个简单而现代的 React 应用，使用 Vite 构建。
 
+体验地址；`https://christcb.top/chris-know/#/`
+
 ## 特性
 
 - ⚡ 使用 Vite 构建，享受极速的开发体验
